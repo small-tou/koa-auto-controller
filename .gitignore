@@ -1,0 +1,12 @@
+.DS_Store
+node_modules
+/web/node_modules
+/web/run
+/web/.idea
+/web/juechen.js
+web/.DS_Store
+.idea
+.idea/*
+.project
+*/npm-debug.log
+.vscode/
